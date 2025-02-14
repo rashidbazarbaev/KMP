@@ -2,6 +2,10 @@
 
 Приложение с героями Марвел
 
+
+![photo_2_2025-02-14_17-00-40](https://github.com/user-attachments/assets/fba5b0f6-f137-40d7-898c-964dda784393)![photo_1_2025-02-14_17-00-40](https://github.com/user-attachments/assets/414f3a8d-5fc6-40dc-802c-6c08b672c167)
+
+
 **Подробнее по файлам:**
 
 Apikeys: получил апи ключи после регистрации на сайте
